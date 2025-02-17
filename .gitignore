@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# datafiles
+train.pkl
+test.pkl
+
 # Distribution / packaging
 .Python
 build/
